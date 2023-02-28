@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# YOUR FULL NAME
+# aline maria trindade da silva 1
 # UAG00098
 # Problem Set 1 - Problem 1
 # Description:
@@ -20,7 +20,7 @@ Hello, World!
 
 
 def main():
-    pass # your code here
+  print("Hello, World!")
 
 
 if __name__ == '__main__':
